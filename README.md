@@ -9,7 +9,7 @@
 ## Steps to run
 1) At first Clone repository
 ```
-git clone 
+git clone https://github.com/jacktherock/Jokes-API-Project.git
 ```
 2) Then install `node_modules`
 ```
