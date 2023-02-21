@@ -31,7 +31,7 @@ const Joke = () => {
 
 
       <div>
-        <a href="/" className="btn btn-sm btn-success rounded-3 my-5" style={{ position: "relative", left:"60%" ,marginTop: "50%" }}>
+        <a href="/" className="btn btn-sm btn-success rounded-3 my-5 py-2 px-3" style={{ position: "relative", left:"60%" ,marginTop: "50%" }}>
           Next
         </a>
       </div>

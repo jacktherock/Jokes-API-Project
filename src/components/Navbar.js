@@ -5,7 +5,7 @@ const Navbar = () => {
     <div>
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
         <div className="container-fluid justify-content-center">
-          <a className="navbar-brand fw-bold text-uppercase" href="#/">
+          <a className="navbar-brand" href="#/">
             <img
               src="https://cdn-icons-png.flaticon.com/512/7014/7014378.png"
               width={50}
@@ -13,7 +13,7 @@ const Navbar = () => {
               alt=""
               className="mx-3"
             />
-            You Laugh You Lose
+            <span style={{fontFamily:  "Agustina, sans-serif"}}> You Laugh You Lose </span>
           </a>
         </div>
       </nav>
