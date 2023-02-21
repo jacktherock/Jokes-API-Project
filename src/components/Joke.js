@@ -25,11 +25,15 @@ const Joke = () => {
 
   return (
     <div className="container">
-      <a href="/" className="btn btn-sm btn-success rounded-3 my-5">
-        Next Joke
-      </a>
       <div className="my-5">
         {loading ? loading && <Spinner /> : <JokeItem jokes={data} />}
+      </div>
+
+
+      <div>
+        <a href="/" className="btn btn-sm btn-success rounded-3 my-5" style={{ position: "relative", left:"60%" ,marginTop: "50%" }}>
+          Next
+        </a>
       </div>
     </div>
   );
