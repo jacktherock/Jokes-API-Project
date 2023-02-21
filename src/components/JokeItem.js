@@ -5,8 +5,7 @@ const JokeItem = (props) => {
     <div>
       <div className="d-flex justify-content-center">
         <div
-          className="card bg-light shadow py-5 px-5"
-          style={{ width: "30rem" }}
+          className="card bg-light shadow py-5 px-5 jokeItem-card"
         >
           <div className="card-body">
             <p className="card-text">

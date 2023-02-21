@@ -1,0 +1,13 @@
+.joke-next{
+    position: relative;
+    left: 60%;
+    margin-top: 50%; 
+}
+
+.jokeItem-card{
+    width: 30rem;
+}
+
+.navbar-title{
+    font-family:  'Didact Gothic', sans-serif;
+}

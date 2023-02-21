@@ -13,7 +13,7 @@ const Navbar = () => {
               alt=""
               className="mx-3"
             />
-            <span style={{fontFamily:  "Agustina, sans-serif"}}> YOU LAUGH YOU LOSE </span>
+            <span className="navbar-title"> You Laugh You Lose </span>
           </a>
         </div>
       </nav>
