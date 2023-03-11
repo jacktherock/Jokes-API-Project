@@ -1,9 +1,10 @@
-# You Laugh You Lose - Jokes
+# Joke Junction App
 
-- 'You Laugh You Lose' is a Jokes app project created using ReactJS, HTML, CSS, Javasscript, Bootstrap.
+- 'Joke Junction' is a Jokes app project created using ReactJS, HTML, CSS, Javasscript, Bootstrap.
 - For fetching new jokes here I used a Jokes API : https://sv443.net/jokeapi/v2/
+- Live Link: [Joke Junction](https://jokejunction.netlify.app/)
 
-## You Laugh You Lose!
+## Joke Junction !
 ![jokesAPI](jokesAPI.PNG)
 
 ## Steps to run
