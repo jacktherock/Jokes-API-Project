@@ -13,7 +13,7 @@ const Navbar = () => {
               alt=""
               className="mx-3"
             />
-            <span className="navbar-title"> You Laugh You Lose </span>
+            <span className="navbar-title"> Laugh Line </span>
           </a>
         </div>
       </nav>
