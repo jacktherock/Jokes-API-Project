@@ -5,7 +5,7 @@
 - Live Link: [Joke Junction](https://jokejunction.netlify.app/)
 
 ## Joke Junction !
-![jokesAPI](jokesAPI.PNG)
+![JokeJunction](JokeJunction.png)
 
 ## Steps to run
 1) At first Clone repository
